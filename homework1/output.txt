@@ -1,0 +1,85 @@
+10
+<class 'int'>
+1.5
+<class 'float'>
+3j
+<class 'complex'>
+hello
+<class 'str'>
+[1, 2, 3]
+<class 'list'>
+{'name': 'Ellen', 'favorite fruit': 'strawberry'}
+<class 'dict'>
+(1, 2)
+<class 'tuple'>
+['apple', 'banana', 'strawberry']
+<class 'list'>
+True
+<class 'bool'>
+None
+<class 'NoneType'>
+[True, 'blue', 12]
+<class 'list'>
+14
+<class 'str'>
+10000.0
+<class 'float'>
+True
+False
+False
+True
+True
+True
+True
+False
+False
+False
+True
+False
+False
+False
+False
+True
+False
+True
+True
+False
+True
+False
+15
+5
+8
+2.0
+1
+9
+7
+False
+False
+True
+True
+True
+False
+5
+10
+6
+18
+True
+False
+True
+False
+False
+True
+hello
+h
+e
+l
+l
+o
+o
+el
+hlo
+5
+hello goodbye
+hellohellohellohellohellohellohello
+Hello, my name is Oski
+Hello, my name is Oski

@@ -1,0 +1,258 @@
+nano homework2.py
+# 1) What’s the difference between Git, GitHub, and Git Bash?
+# Git is a version control system that tracks changes in code.
+# GitHub is a website that hosts Git repositories online.
+# Git Bash is a terminal application for Windows that lets you use Git commands.
+
+# 2) What’s the difference between the terminal and the command line?
+# The terminal is the program or interface where you type commands.
+# The command line is the actual text-based place where you enter commands.
+
+# 3) How does Windows PowerShell differ from Git Bash?
+# PowerShell is Windows’ default command-line tool and uses different commands.
+# Git Bash emulates a Unix/Linux-style terminal and supports Git and bash commands.
+
+# 4) What’s the difference between Anaconda, conda, and Python?
+# Python is a programming language.
+# Anaconda is a distribution that includes Python and many data science tools.
+# Conda is a package and environment manager that comes with Anaconda.
+
+# 5) What is VS Code?
+# VS Code (Visual Studio Code) is a code editor used to write and run programs.
+
+# 6) What is a Jupyter Notebook? How is it different from Jupyter Lab?
+# A Jupyter Notebook is an interactive document for writing and running code in cells.
+# Jupyter Lab is a more advanced interface that lets you manage notebooks, files, and terminals in one workspace.
+
+# 7) What does ~/ mean?
+# ~/ represents your home directory.
+
+# 8) What’s the difference between an absolute path and a relative path?
+# An absolute path starts from the root directory (like /Users/name/...).
+# A relative path starts from your current directory.
+
+# 9) Imagine you're in your "yourname" repo. Write the absolute and relative paths to "course_assignments/homework2".
+# Absolute: /Users/cooperkennedy/Desktop/python_decal_fa25/course_assignments/homework2
+# Relative: ../course_assignments/homework2
+
+# 10) What command lets you move from "course_assignments/homework2/" to "course_assignments/"?
+# cd ..
+
+# 11) What would rm ./ do in your current directory? (Don’t try it!)
+# rm ./ would attempt to remove the current directory (which could delete files).
+
+# 12) What do the following commands do?
+# git add - stages changes to be committed.
+# git commit - saves the staged changes with a message.
+# git push - uploads your commits to GitHub.
+
+# 13) What's the difference between "git add ." and "git add <file>"?
+# git add . stages all changed files.
+# git add <file> stages only the specific file.
+
+# 14) What do "git status" and "git log -1" do?
+# git status shows the current state of your repository.
+# git log -1 shows the most recent commit.
+
+# 15) What’s the difference between cloning a repository and pulling from it?
+# Cloning copies a remote repository to your local machine for the first time.
+# Pulling updates your local repository with changes from the remote repository.
+
+# 16) What has been your most frustrating bug or error in this class so far? How did you troubleshoot or fix it?
+# One frustrating issue was cloning into the wrong directory.
+# I fixed it by checking my file path with pwd and using ls to verify folder locations.
+
+# 17) What’s a question you still have? What’s something you’re confused about?
+# I’m still a little confused about SSH keys and authentication with GitHub.
+
+# 1) What’s the difference between Git, GitHub, and Git Bash?
+# Git is a version control system that tracks changes in code.
+# GitHub is a website that hosts Git repositories online.
+# Git Bash is a terminal application for Windows that lets you use Git commands.
+
+# 2) What’s the difference between the terminal and the command line?
+# The terminal is the program or interface where you type commands.
+# The command line is the actual text-based place where you enter commands.
+
+# 3) How does Windows PowerShell differ from Git Bash?
+# PowerShell is Windows’ default command-line tool and uses different commands.
+# Git Bash emulates a Unix/Linux-style terminal and supports Git and bash commands.
+
+# 4) What’s the difference between Anaconda, conda, and Python?
+# Python is a programming language.
+# Anaconda is a distribution that includes Python and many data science tools.
+# Conda is a package and environment manager that comes with Anaconda.
+
+# 5) What is VS Code?
+# VS Code (Visual Studio Code) is a code editor used to write and run programs.
+
+# 6) What is a Jupyter Notebook? How is it different from Jupyter Lab?
+# A Jupyter Notebook is an interactive document for writing and running code in cells.
+# Jupyter Lab is a more advanced interface that lets you manage notebooks, files, and terminals in one workspace.
+
+# 7) What does ~/ mean?
+# ~/ represents your home directory.
+
+# 8) What’s the difference between an absolute path and a relative path?
+# An absolute path starts from the root directory (like /Users/name/...).
+# A relative path starts from your current directory.
+
+# 9) Imagine you're in your "yourname" repo. Write the absolute and relative paths to "course_assignments/homework2".
+# Absolute: /Users/cooperkennedy/Desktop/python_decal_fa25/course_assignments/homework2
+# Relative: ../course_assignments/homework2
+
+# 10) What command lets you move from "course_assignments/homework2/" to "course_assignments/"?
+# cd ..
+
+# 11) What would rm ./ do in your current directory? (Don’t try it!)
+# rm ./ would attempt to remove the current directory (which could delete files).
+
+# 12) What do the following commands do?
+# git add - stages changes to be committed.
+# git commit - saves the staged changes with a message.
+# git push - uploads your commits to GitHub.
+
+# 13) What's the difference between "git add ." and "git add <file>"?
+# git add . stages all changed files.
+# git add <file> stages only the specific file.
+
+# 14) What do "git status" and "git log -1" do?
+# git status shows the current state of your repository.
+# git log -1 shows the most recent commit.
+
+# 15) What’s the difference between cloning a repository and pulling from it?
+# Cloning copies a remote repository to your local machine for the first time.
+# Pulling updates your local repository with changes from the remote repository.
+
+# 16) What has been your most frustrating bug or error in this class so far? How did you troubleshoot or fix it?
+# One frustrating issue was cloning into the wrong directory.
+# I fixed it by checking my file path with pwd and using ls to verify folder locations.
+
+# 17) What’s a question you still have? What’s something you’re confused about?
+# I’m still a little confused about SSH keys and authentication with GitHub.
+
+# 18) Tell me a fun fact!
+# A fun fact: Honey never spoils and has been found edible in ancient Egyptian tombs.
+
+# 19) Print your favorite math expression you've learned in Python so far.
+# This prints 2 to the power of 5.
+print(2 ** 5)# 1) What’s the difference between Git, GitHub, and Git Bash?
+# Git is a version control system that tracks changes in code.
+# GitHub is a website that hosts Git repositories online.
+# Git Bash is a terminal application for Windows that lets you use Git commands.
+
+# 2) What’s the difference between the terminal and the command line?
+# The terminal is the program or interface where you type commands.
+# The command line is the actual text-based place where you enter commands.
+
+# 3) How does Windows PowerShell differ from Git Bash?
+# PowerShell is Windows’ default command-line tool and uses different commands.
+# Git Bash emulates a Unix/Linux-style terminal and supports Git and bash commands.
+
+# 4) What’s the difference between Anaconda, conda, and Python?
+# Python is a programming language.
+# Anaconda is a distribution that includes Python and many data science tools.
+# Conda is a package and environment manager that comes with Anaconda.
+
+# 5) What is VS Code?
+# VS Code (Visual Studio Code) is a code editor used to write and run programs.
+
+# 6) What is a Jupyter Notebook? How is it different from Jupyter Lab?
+# A Jupyter Notebook is an interactive document for writing and running code in cells.
+# Jupyter Lab is a more advanced interface that lets you manage notebooks, files, and terminals in one workspace.
+
+# 7) What does ~/ mean?
+# ~/ represents your home directory.
+
+# 8) What’s the difference between an absolute path and a relative path?
+# An absolute path starts from the root directory (like /Users/name/...).
+# A relative path starts from your current directory.
+
+# 9) Imagine you're in your "yourname" repo. Write the absolute and relative paths to "course_assignments/homework2".
+# Absolute: /Users/cooperkennedy/Desktop/python_decal_fa25/course_assignments/homework2
+# Relative: ../course_assignments/homework2
+
+# 10) What command lets you move from "course_assignments/homework2/" to "course_assignments/"?
+# cd ..
+
+# 11) What would rm ./ do in your current directory? (Don’t try it!)
+# rm ./ would attempt to remove the current directory (which could delete files).
+
+# 12) What do the following commands do?
+# git add - stages changes to be committed.
+# git commit - saves the staged changes with a message.
+# git push - uploads your commits to GitHub.
+
+# 13) What's the difference between "git add ." and "git add <file>"?
+# git add . stages all changed files.
+# git add <file> stages only the specific file.
+
+# 14) What do "git status" and "git log -1" do?
+# git status shows the current state of your repository.
+# git log -1 shows the most recent commit.
+
+# 15) What’s the difference between cloning a repository and pulling from it?
+# Cloning copies a remote repository to your local machine for the first time.
+# Pulling updates your local repository with changes from the remote repository.
+
+# 16) What has been your most frustrating bug or error in this class so far? How did you troubleshoot or fix it?
+# One frustrating issue was cloning into the wrong directory.
+# I fixed it by checking my file path with pwd and using ls to verify folder locations.
+
+# 17) What’s a question you still have? What’s something you’re confused about?
+# I’m still a little confused about SSH keys and authentication with GitHub.
+
+# 18) Tell me a fun fact!
+# A fun fact: Honey never spoils and has been found edible in ancient Egyptian tombs.
+
+# 19) Print your favorite math expression you've learned in Python so far.
+# This prints 2 to the power of 5.
+print(2 ** 5)
+MacBook-Pro-5:homework1 cooperkennedy$ cd ~/Desktop/python_decal_fa25/william MacBook-Pro-5:william cooperkennedy$ mkdir homework2 MacBook-Pro-5:william cooperkennedy$ MacBook-Pro-5:william cooperkennedy$ cd homework2 MacBook-Pro-5:homework2 cooperkennedy$ ls MacBook-Pro-5:homework2 cooperkennedy$ cd ~/Desktop/python_decal_fa25/william MacBook-Pro-5:william cooperkennedy$ ls homework1 homework2 MacBook-Pro-5:william cooperkennedy$ git init Initialized empty Git repository in /Users/cooperkennedy/Desktop/python_decal_fa25/william/.git/ MacBook-Pro-5:william cooperkennedy$ is -a -bash: is: command not found MacBook-Pro-5:william cooperkennedy$ cd ~/Desktop/python_decal_fa25/william MacBook-Pro-5:william cooperkennedy$ MacBook-Pro-5:william cooperkennedy$ git init Reinitialized existing Git repository in /Users/cooperkennedy/Desktop/python_decal_fa25/william/.git/ MacBook-Pro-5:william cooperkennedy$ MacBook-Pro-5:william cooperkennedy$ git remote add origin https://github.com/<yourusername>/<yourrepo>.git -bash: yourusername: No such file or directory MacBook-Pro-5:william cooperkennedy$ git remote add origin https://github.com/<yourusername>/<yourrepo>.git -bash: yourusername: No such file or directory MacBook-Pro-5:william cooperkennedy$ https://github.com/<ckennedy14>/<william>.git -bash: ckennedy14: No such file or directory MacBook-Pro-5:william cooperkennedy$ https://github.com/<ckennedy14>/<william>.git -bash: ckennedy14: No such file or directory MacBook-Pro-5:william cooperkennedy$ https://github.com/ckennedy14/william.git -bash: https://github.com/ckennedy14/william.git: No such file or directory MacBook-Pro-5:william cooperkennedy$ cd ~/Desktop/python_decal_fa25/william MacBook-Pro-5:william cooperkennedy$ git init Reinitialized existing Git repository in /Users/cooperkennedy/Desktop/python_decal_fa25/william/.git/ MacBook-Pro-5:william cooperkennedy$ cd ~/Desktop/python_decal_fa25/william MacBook-Pro-5:william cooperkennedy$ git init Reinitialized existing Git repository in /Users/cooperkennedy/Desktop/python_decal_fa25/william/.git/ MacBook-Pro-5:william cooperkennedy$ git remote add origin https://github.com/ckennedy14/william.git MacBook-Pro-5:william cooperkennedy$ git remote -v origin https://github.com/ckennedy14/william.git (fetch) origin https://github.com/ckennedy14/william.git (push) MacBook-Pro-5:william cooperkennedy$ git clone https://github.com/pythondecal/course_assignments.git Cloning into 'course_assignments'... remote: Enumerating objects: 118, done. remote: Counting objects: 100% (3/3), done. remote: Compressing objects: 100% (3/3), done. remote: Total 118 (delta 2), reused 0 (delta 0), pack-reused 115 (from 1) Receiving objects: 100% (118/118), 7.91 MiB | 5.05 MiB/s, done. Resolving deltas: 100% (28/28), done. MacBook-Pro-5:william cooperkennedy$ cd ~/Desktop/python_decal_fa25 MacBook-Pro-5:python_decal_fa25 cooperkennedy$ MacBook-Pro-5:python_decal_fa25 cooperkennedy$ cd course-assignments -bash: cd: course-assignments: No such file or directory MacBook-Pro-5:python_decal_fa25 cooperkennedy$ ls william MacBook-Pro-5:python_decal_fa25 cooperkennedy$ git clone https://github.com/pythondecal/course-assignments.git Cloning into 'course-assignments'... Username for 'https://github.com': ckennedy14 Password for 'https://ckennedy14@github.com': remote: Invalid username or token. Password authentication is not supported for Git operations. fatal: Authentication failed for 'https://github.com/pythondecal/course-assignments.git/' MacBook-Pro-5:python_decal_fa25 cooperkennedy$ git clone https://github.com/pythondecal/course-assignments.git Cloning into 'course-assignments'... Username for 'https://github.com': Password for 'https://github.com': remote: Repository not found. fatal: Authentication failed for 'https://github.com/pythondecal/course-assignments.git/' MacBook-Pro-5:python_decal_fa25 cooperkennedy$ git clone https://github.com/pythondecal/course-assignments.git Cloning into 'course-assignments'... Username for 'https://github.com': ckennedy14 Password for 'https://ckennedy14@github.com': remote: Invalid username or token. Password authentication is not supported for Git operations. fatal: Authentication failed for 'https://github.com/pythondecal/course-assignments.git/' MacBook-Pro-5:python_decal_fa25 cooperkennedy$ cd course_assignments -bash: cd: course_assignments: No such file or directory MacBook-Pro-5:python_decal_fa25 cooperkennedy$ cd ~ MacBook-Pro-5:~ cooperkennedy$ ls Applications Desktop Documents Downloads Library Movies Music Pictures Public Sites MacBook-Pro-5:~ cooperkennedy$ cd course_assignments -bash: cd: course_assignments: No such file or directory MacBook-Pro-5:~ cooperkennedy$ lsfind ~ -type d -name "course_assignments" -bash: lsfind: command not found MacBook-Pro-5:~ cooperkennedy$ cd ~/Desktop/python_decal_fa25 MacBook-Pro-5:python_decal_fa25 cooperkennedy$ git clone https://github.com/pythondecal/course_assignments.git Cloning into 'course_assignments'... remote: Enumerating objects: 118, done. remote: Counting objects: 100% (3/3), done. remote: Compressing objects: 100% (3/3), done. remote: Total 118 (delta 2), reused 0 (delta 0), pack-reused 115 (from 1) Receiving objects: 100% (118/118), 7.91 MiB | 8.36 MiB/s, done. Resolving deltas: 100% (28/28), done. MacBook-Pro-5:python_decal_fa25 cooperkennedy$ cd ~ MacBook-Pro-5:~ cooperkennedy$ ls Applications Desktop Documents Downloads Library Movies Music Pictures Public Sites MacBook-Pro-5:~ cooperkennedy$ cd ~/Desktop/python_decal_fa25 MacBook-Pro-5:python_decal_fa25 cooperkennedy$ ls course_assignments william MacBook-Pro-5:python_decal_fa25 cooperkennedy$ cd course_assignments MacBook-Pro-5:course_assignments cooperkennedy$ pwd /Users/cooperkennedy/Desktop/python_decal_fa25/course_assignments MacBook-Pro-5:course_assignments cooperkennedy$# File: homework2.py
+
+# Your file path should look like:
+# python_decal_fa25/yourname/homework2/homework2.py
+
+# Questions (Answer these in the homework2.py file as comments):
+
+# 1) What’s the difference between Git, GitHub, and Git Bash?
+
+# 2) What’s the difference between the terminal and the command line?
+
+# 3) How does Windows PowerShell differ from Git Bash?
+
+# 4) What’s the difference between Anaconda, conda, and Python?
+
+# 5) What is VS Code? 
+
+# 6) What is a Jupyter Notebook? How is it different from Jupyter Lab?
+
+# 7) What does ~/ mean?
+
+# 8) What’s the difference between an absolute path and a relative path?
+
+# 9) Imagine you're in your "yourname" repo. Write the absolute and relative paths to "course_assignments/homework2".
+
+# 10) What command lets you move from "course_assignments/homework2/" to "course_assignments/"?
+
+# 11) What would rm ./ do in your current directory? (Don’t try it!)
+
+# 12) What do the following commands do?
+# git add
+# git commit
+# git push
+
+# 13) What's the difference between "git add ." and "git add <file>"?
+
+# 14) What do "git status" and "git log -1" do?
+
+# 15) What’s the difference between cloning a repository and pulling from it?
+
+# 16) What has been your most frustrating bug or error in this class so far? How did you troubleshoot or fix it?
+
+# 17) What’s a question you still have? What’s something you’re confused about?
+
+# 18) Tell me a fun fact!
+
+# 19) Print your favorite math expression you've learned in Python so far. 
+# (Hint: Use print() and add a comment explaining what it does.)
