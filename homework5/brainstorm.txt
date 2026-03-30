@@ -1,0 +1,17 @@
+Exoplanets and planet detection
+Black holes
+Gravitational waves
+Space telescopes
+Artificial intelligence in science
+
+For exoplanets, I found TESS light curve data. This shows how a star’s brightness changes over time and helps detect planets when the light dips.
+
+For black holes, I found Event Horizon Telescope images. These show how scientists study black holes using data and imaging.
+
+For AI, I found articles about AI analyzing scientific data. These show how computers find patterns in large datasets.
+
+I will focus on exoplanets. I can use Python to analyze light curve data, use loops to scan brightness values, conditionals to detect dips, and functions to organize the code. I can store data in lists and track changes using GitHub.
+
+Ambitious idea: Build a program that loads TESS data, detects a transit, estimates period and depth, and shows a simple animation.
+
+Simple idea: Read a dataset, find dips in brightness, and print basic values like depth and timing.
